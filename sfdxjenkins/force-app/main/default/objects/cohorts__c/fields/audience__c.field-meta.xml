@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>audience__c</fullName>
+    <caseSensitive>false</caseSensitive>
+    <complianceGroup>HIPAA;GDPR;PCI;COPPA;CCPA</complianceGroup>
+    <description>Specifying the audience</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Helps the user assign audience</inlineHelpText>
+    <label>Audience</label>
+    <length>255</length>
+    <required>true</required>
+    <trackTrending>false</trackTrending>
+    <type>Text</type>
+    <unique>true</unique>
+</CustomField>

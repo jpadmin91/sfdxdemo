@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Helps the user assign the start date to the cohort program --></help>
+    <label><!-- Start Date --></label>
+    <name>startdate__c</name>
+</CustomFieldTranslation>

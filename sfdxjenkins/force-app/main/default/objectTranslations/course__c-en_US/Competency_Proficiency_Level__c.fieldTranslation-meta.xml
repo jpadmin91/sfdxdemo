@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Choose any of the competency level --></help>
+    <label><!-- Competency Proficiency Level --></label>
+    <name>Competency_Proficiency_Level__c</name>
+    <picklistValues>
+        <masterLabel>Advanced</masterLabel>
+        <translation><!-- Advanced --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Proficient</masterLabel>
+        <translation><!-- Proficient --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Gender_Detail --></label>
+    <name>Gender_Detail__c</name>
+    <picklistValues>
+        <masterLabel>Female</masterLabel>
+        <translation><!-- Female --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Gay</masterLabel>
+        <translation><!-- Gay --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Male</masterLabel>
+        <translation><!-- Male --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

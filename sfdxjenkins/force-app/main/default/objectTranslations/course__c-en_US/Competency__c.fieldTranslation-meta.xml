@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Please choose any of the following --></help>
+    <label><!-- Competency --></label>
+    <name>Competency__c</name>
+    <picklistValues>
+        <masterLabel>Industry</masterLabel>
+        <translation><!-- Industry --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Product</masterLabel>
+        <translation><!-- Product --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Salesforce Smart</masterLabel>
+        <translation><!-- Salesforce Smart --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Skills</masterLabel>
+        <translation><!-- Skills --></translation>
+    </picklistValues>
+</CustomFieldTranslation>
